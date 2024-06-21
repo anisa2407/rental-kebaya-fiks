@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Courgette&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Courgette&family=Mukta+Malar:wght@400&display=swap');
+
+
+.up {
+  font-family: 'Mukta Malar', sans-serif;
+}
+
+.ses1 {
+  background-color: #96B6C5;
+  color: #fdfdfe;
+  text-align: justify;
+}
+
+.hero-wrap{
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+
+
+.button5 {
+   border-radius: 50%
+}
+
+.button2{
+  border-radius: 50%;
+}
+
